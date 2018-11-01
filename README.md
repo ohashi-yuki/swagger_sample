@@ -1,2 +1,4 @@
 # swagger_sample
-Swaggerのサンプル
+
+Swaggerを使用したサンプルコード。
+APIはRailsでコーディング。
